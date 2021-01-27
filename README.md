@@ -1,6 +1,6 @@
-# cdp-template
+# mixed-content-scanner
 
-Template Repository with Chrome DevTools Protocol
+Scan Mixed Content with CDP
 
 ## Usage
 
